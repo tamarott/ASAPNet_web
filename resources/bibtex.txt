@@ -1,0 +1,6 @@
+@inproceedings{RottShaham2020ASAP,
+  title={Spatially-Adaptive Pixelwise Networks for Fast Image Translation},
+  author={Rott Shaham, Tamar and Gharbi, Michael and Zhang, Richard and Shechtman, Eli and Michaeli, Tomer},
+  booktitle={ArXiv},
+  year={2020}
+}
